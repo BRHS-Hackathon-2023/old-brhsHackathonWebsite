@@ -1,2 +1,3 @@
-# old-brhsHackathonWebsite
-Files for the Old BRHS Hackathon Website, written in Vanilla JS
+# BRHackathon2023
+Old repository for Website for BR Hacks 2023
+
